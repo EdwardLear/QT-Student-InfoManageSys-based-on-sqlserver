@@ -1,6 +1,6 @@
 # QT StudentInfo ManageSys Based on sqlserver
 QT Student Information Manage System Based on sqlserver
-C++基于QT的学生信息管理系统，包含下列功能：
+# C++基于QT的学生信息管理系统，包含下列功能：
 # 用户登录页
 # 管理端
 管理端首页
@@ -22,8 +22,9 @@ C++基于QT的学生信息管理系统，包含下列功能：
 奖惩信息查询 
 缴费信息查询 
 
-# 数据库使用的是sql server，通过ODBC连接，在文件中连接数据库部分也对应附注了mysql的odbc连接代码
 # 数据库表
+数据库使用的是sql server，通过ODBC连接，在文件中连接数据库部分也对应附注了mysql的odbc连接代码
+
 admin 管理员信息表
 student 学生信息表
 class 班级信息表 
